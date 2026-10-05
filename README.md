@@ -1,4 +1,4 @@
-# CS-000 Code Repository
+# IT-140 Code Repository
 
 > [!IMPORTANT]
 > 🚨 **README:** Do **NOT** fork or clone this repository yet. Follow the instructions below.
