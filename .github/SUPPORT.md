@@ -42,7 +42,7 @@ Course wikis and support resources supplement—but do not replace—the current
 | --- | --- |
 | Grading, assignment submission, due dates, extensions, instructor expectations, course policies, or section-specific requirements | Your instructor or the General Questions discussion in [D2L Brightspace](https://learn.snhu.edu/d2l/home) |
 | Supplemental explanations, course-repository navigation, setup guidance, troubleshooting, task background, or self-help | [Course Repository Wiki](https://github.com/GC-STEM/cs000/wiki) |
-| A course repository, repository instructions, the course IDE, Codio, Git, GitHub, or another shared technical process | [GitHub Discussions](https://github.com/GC-STEM/cs000/discussions) |
+| A course repository, repository instructions, the course development environment (CDE, Codio, Git, GitHub, or another shared technical process | [GitHub Discussions](https://github.com/GC-STEM/cs000/discussions) |
 | Incorrect, missing, unclear, outdated, or broken repository content | [GitHub Issues](https://github.com/GC-STEM/cs000/issues) |
 | A suggested repository or documentation improvement | [GitHub Issues](https://github.com/GC-STEM/cs000/issues) |
 | [Academic Support](https://myapps.microsoft.com/signin/00b02d3d-d1f9-40dc-b7e0-a4c4f512c5b4?tenantId=2baef15b-b8de-423f-9d8a-46f3686d8848) office hours, workshops, 24/7 tutoring, academic coaching, written feedback, peer groups, or self-help resources | [Course Support](https://github.com/GC-STEM/cs000/wiki/Course-Support) |
@@ -100,7 +100,7 @@ When asking a GitHub question or reporting a repository problem, include:
 
 * **Task:** The assignment, project, lab, or other task
 * **Repository URL:** The relevant GitHub repository
-* **Environment:** The operating system, course IDE, virtual environment, or application
+* **Environment:** The operating system, course development environment (CDE, virtual environment, or application
 * **Problem:** A clear description of what happened
 * **Expected result:** What you expected to happen
 * **Error:** The complete error message, copied exactly when possible

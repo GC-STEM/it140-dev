@@ -55,7 +55,7 @@ Students should normally contribute by opening a GitHub Issue. Do not fork the p
 
 | If you want to... | Use... |
 | --- | --- |
-| Ask for help with repository instructions, the course IDE, Git, GitHub, or another shared technical process | [GitHub Discussions](https://github.com/GC-STEM/cs000/discussions) |
+| Ask for help with repository instructions, the course development environment (CDE, Git, GitHub, or another shared technical process | [GitHub Discussions](https://github.com/GC-STEM/cs000/discussions) |
 | Report incorrect, missing, unclear, outdated, or broken repository content | [GitHub Issues](https://github.com/GC-STEM/cs000/issues) |
 | Suggest a repository or documentation improvement | [GitHub Issues](https://github.com/GC-STEM/cs000/issues) |
 | Ask about grading, due dates, submissions, extensions, course policies, or section-specific expectations | Your instructor or the General Questions discussion in [D2L Brightspace](https://learn.snhu.edu/d2l/home) |
@@ -100,7 +100,7 @@ Include the following information when it applies:
 * **Repository:** The name or URL of the affected repository
 * **Location:** The file, heading, step, command, or link involved
 * **Task:** The applicable assignment, project, lab, or setup task
-* **Environment:** The operating system, course IDE, virtual environment, browser, or application
+* **Environment:** The operating system, course development environment (CDE, virtual environment, browser, or application
 * **Current result:** What currently happens or what the content currently says
 * **Expected result:** What you expected to happen or what the content should communicate
 * **Steps:** The steps needed to reproduce the problem
