@@ -14,7 +14,7 @@ Welcome to the **IT-140 Code Repository**! To get started:
 
 ## 💻 1-1 Setup Tasks
 
-Complete these one-time setup tasks before starting [Repository Assignments](#️-repository-assignments), preferably before the end of Week 1. Return here after each task.
+Complete these one-time setup tasks before starting [**Repository Assignments**](#️-repository-assignments), preferably **before the end of Week 1**. Return here after each task.
 
 1. [**Set up your GitHub account**](https://github.com/GC-STEM/cs-core/wiki/GitHub)
     * **New account**: Click on the above link to create and configure a new account.
@@ -37,7 +37,7 @@ If a setup task does not work as expected, [get help](#-help-and-support) before
 
 ## 🏗️ Repository Assignments
 
-If Brightspace sent you to GitHub, switch to your local copy of the repository in your course development environment (CDE. If you are using the recommended course development environment (CDE, open a terminal, type the following command, and press **Enter**.
+If Brightspace sent you to GitHub, switch to your local copy of the repository in your course development environment (CDE). If you are using the recommended course development environment (CDE), open a terminal, type the following command, and press **Enter**.
 
 ```bash
 code "$HOME/Repos/it140-dev"

@@ -53,7 +53,12 @@
       "## Table of Contents"
     ]
   },
-  "cSpell.words": [],
+  "cSpell.words": [
+    "Brightspace",
+    "hilow",
+    "SNHU's",
+    "WCAG"
+],
   "[json]": {
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
